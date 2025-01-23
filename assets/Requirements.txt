@@ -1,0 +1,7 @@
+-5 subjects/person videos ~20sec
+-10,20,40,60,90 (ages)
+-with default parameters
+-visually analyze above videos and report into the doc with their time duration.
+-Select the best case of face_reagging model reduce computational time by tweaking parameters.
+-After optimizing perform the above setting with all videos with which we were able to reduce time.
+-generate report
